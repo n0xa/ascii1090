@@ -187,15 +187,9 @@ ascii1090/
 
 ## License
 
-See PLAN.md for implementation details.
+MIT License
 
 ## Future Enhancements
 
-- Filter by altitude range
 - Color-code aircraft by altitude
 - Trail rendering (last N positions)
-- Distance/bearing calculations
-- CSV/JSON export
-- Web dashboard
-- Multiple dump1090 sources
-- Replay mode
