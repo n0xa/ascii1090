@@ -2,6 +2,8 @@
 
 A terminal-based ADS-B aircraft tracker with ASCII map rendering. Display real-time aircraft positions on a map in your terminal using data from dump1090.
 
+![ascii1090 demo](ascii1090.gif)
+
 ## Features
 
 - **Real-time aircraft tracking** from dump1090
